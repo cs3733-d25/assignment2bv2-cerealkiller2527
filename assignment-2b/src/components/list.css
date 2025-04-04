@@ -1,0 +1,13 @@
+.styled-list {
+  background-color: #a3c7e7;
+  padding: 15px 25px;
+  border-radius: 10px;
+  list-style-type: circle;
+  color: #333;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+}
+
+.styled-list li {
+  margin-bottom: 10px;
+  font-size: 1rem;
+}
